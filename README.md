@@ -2,8 +2,8 @@
  <!--START_SECTION:waka-->
 
 ```txt
-HTML       3 hrs 16 mins         ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯   94.60 %
-Markdown   11 mins               ▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   05.40 %
+HTML       3 hrs 16 mins         ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯   88.51 %
+Markdown   25 mins               ▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯   11.49 %
 ```
 
 <!--END_SECTION:waka-->
